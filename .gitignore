@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.DS_Store
+*.mp3
+*.flac
+*.opus
