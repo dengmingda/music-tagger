@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Music Tagger - 一个自动获取并写入音乐元数据的工具
+支持平台：网易云音乐、QQ音乐
+支持格式：MP3, FLAC, Opus
+"""
 import sys
 import requests
 import re
